@@ -8,7 +8,7 @@
 
 
 <a href="https://github.com/Elsaadany427/github-readme-stats" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elsaadany427&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elsaadany427&&theme=midnight-purple&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
 
 <!--
