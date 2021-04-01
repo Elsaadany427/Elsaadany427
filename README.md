@@ -6,10 +6,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elsaadany427&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/Elsaadany427/github-readme-stats" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elsaadany427&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
-</a>
-
 <!--
 **Elsaadany427/Elsaadany427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
