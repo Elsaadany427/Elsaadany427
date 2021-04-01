@@ -1,3 +1,4 @@
+<img src="https://blog.commlabindia.com/wp-content/uploads/2019/07/animated-gifs-corporate-training.gif" alt="Trulli" width="500" height="333" align = "center">
 
 <div align = "center">
   
