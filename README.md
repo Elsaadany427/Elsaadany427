@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Most Active GitHub User Rank] (https://enych6ne86o0poy.m.pipedream.net)
+![Most Active GitHub User Rank](https://enych6ne86o0poy.m.pipedream.net)
 
 <!--
 **Elsaadany427/Elsaadany427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
