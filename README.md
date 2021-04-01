@@ -5,11 +5,7 @@
 
 ![Most Active GitHub User Rank](https://enych6ne86o0poy.m.pipedream.net)
 
-
-
-<a href="https://github.com/Elsaadany427/github-readme-stats" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elsaadany427&theme=midnight-purple&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elsaadany427&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Elsaadany427/Elsaadany427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
