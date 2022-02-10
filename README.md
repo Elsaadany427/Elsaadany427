@@ -1,26 +1,6 @@
 <div align = "center">
   
 <img src="https://blog.commlabindia.com/wp-content/uploads/2019/07/animated-gifs-corporate-training.gif" alt="Trulli" width="495" height="333" align = "middle" style="max-width:100%; border-radius : 1% ; margin-bottom : 30px">
-  
-![Elsaadany's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elsaadany427&theme=midnight-purple&show_icons=true)
 
-![Most Active GitHub User Rank](https://enych6ne86o0poy.m.pipedream.net)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elsaadany427&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**Elsaadany427/Elsaadany427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 </div>
