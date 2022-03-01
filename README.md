@@ -4,8 +4,6 @@
 
 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"  width="20" />I'm a Senior at Faculty of Computers & Informatics at Suez Canal University
 
-<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"  width="20" /> I'm a Senior at Faculty of Computers & Informatics at Suez Canal University
-
 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"  width="20" /> I'm a competitive programmer at codeforces
 
 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"  width="20" /> 2X ACPC Finalist 
