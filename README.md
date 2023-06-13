@@ -1,4 +1,4 @@
-## Hi, I'm Hatem Bassem, I am a fresh graduate Software Engineer.
+## Hi, My name is Hatem Bassem, I am a fresh graduate Software Engineer.
 
 ### About me
 
