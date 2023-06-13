@@ -1,15 +1,12 @@
-## Hi, I'm Hatem Bassem
+## Hi, I'm Hatem Bassem, I am a fresh graduate Software Engineer.
 
 ### About me
 
-<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"  width="20" />I'm a Senior at Faculty of Computers & Informatics at Suez Canal University
-
-
 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"  width="20" /> I'm a competitive programmer at codeforces
 
-<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"  width="20" /> 2X ACPC Finalist 
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"  width="20" /> 2x ACPC Finalist 
 
-<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"  width="20" /> I would like to work with Angular
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"  width="20" /> I would like to work with React
 
 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f539.png"  width="20" />  For more info, this is my [Resume](https://drive.google.com/file/d/1BkOQG7kJtzzw_tLCf_zRJQsF1gD5SMfu/view?usp=sharing)
 
