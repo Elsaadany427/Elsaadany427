@@ -24,7 +24,6 @@
 </p>
 
 <hr>
-<img src="https://raw.githubusercontent.com/mohamedanwer006/mohamedanwer006/master/assets/grid.png" width ="100%" align="center" />
 
 ## Where to find me?
 
@@ -52,4 +51,5 @@
 </div>
 
 [My resume]:url(https://drive.google.com/file/d/1BkOQG7kJtzzw_tLCf_zRJQsF1gD5SMfu/view)
+<img src="https://raw.githubusercontent.com/mohamedanwer006/mohamedanwer006/master/assets/grid.png" width ="100%" align="center" />
 
