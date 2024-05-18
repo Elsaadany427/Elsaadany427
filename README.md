@@ -8,8 +8,6 @@
 
 👨‍💻 I would like to work with React
 
-🔖 For more info, this is my [Resume](https://drive.google.com/file/d/1BkOQG7kJtzzw_tLCf_zRJQsF1gD5SMfu/view?usp=sharing)
-
 <hr>
 
 ### My Progress
