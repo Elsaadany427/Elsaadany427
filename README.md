@@ -1,4 +1,4 @@
-## Hi, My name is Hatem Bassem, I am a fresh graduate Software Engineer.
+## Hi, My name is Hatem Bassem, I'm Software Engineer.
 
 ### About me
 
@@ -6,7 +6,7 @@
 
 🏆 2x ACPC Finalist 
 
-👨‍💻 I would like to work with React
+👨‍💻 I would like to work with Angular
 
 <hr>
 
