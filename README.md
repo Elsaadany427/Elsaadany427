@@ -6,7 +6,7 @@
 
 🏆 2x ACPC Finalist 
 
-👨‍💻 I would like to work with Angular
+👨‍💻 I would like to work with (React or Angular)
 
 <hr>
 
