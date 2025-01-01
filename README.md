@@ -10,6 +10,16 @@
 
 <hr>
 
+
+
+<a href="https://gollowers.pages.dev/#gh-light-mode-only">
+  <img alt="Followers History Chart" src="https://gollowers.fr.to/graph/Elsaadany427?transparent=true" />
+</a>
+<a href="https://gollowers.pages.dev/#gh-dark-mode-only">
+  <img alt="Followers History Chart" src="https://gollowers.fr.to/graph/Elsaadany427?transparent=true&theme=dark" />
+</a>
+
+
 ### My Progress
 
 [comment]: <> (for streak dark theme => &theme=dark || for progress dark theme => &theme=react)
@@ -32,13 +42,6 @@
 <img src="https://img.shields.io/github/followers/Elsaadany427?style=social" />
 </p>  
 
-
-<a href="https://gollowers.pages.dev/#gh-light-mode-only">
-  <img alt="Followers History Chart" src="https://gollowers.fr.to/graph/Elsaadany427?transparent=true" />
-</a>
-<a href="https://gollowers.pages.dev/#gh-dark-mode-only">
-  <img alt="Followers History Chart" src="https://gollowers.fr.to/graph/Elsaadany427?transparent=true&theme=dark" />
-</a>
 
 ***The most important step of all is the first step. Start something.***
 
